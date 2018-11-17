@@ -1,7 +1,10 @@
 # Python final-project
 ## final project repository
 
-**Team memebers:** 
-1. John 
-2. Timothy 
-3. Rushi 
+**Team members:** 
+1. John Pruner
+2. Timothy Truax
+3. Rushi Parikh
+
+# Phase I
+Timothy Truax: Created phase1_ttruax.ipynb individually.
