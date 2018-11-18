@@ -21,7 +21,7 @@
 - J
 3. Report how many NaN. Use isnull() function applied to the dataframe. Then you can use arithmetic sum(). 
 - R
-4. Replace NaN values with the mean of column A7. Use fillna() - find how to calculate mean of the column, add a parameter skipna=TRUE. 
+4. Replace NaN values with the mean of column A7. Use fillna() - find how to calculate mean of the column
 - T
 5. Provide the summary statistics - you can use describe() function
 - J
