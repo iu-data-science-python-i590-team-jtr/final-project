@@ -9,4 +9,6 @@
 
 # This readme is specific to Rushi's branch. 
 
-### Code (notebook) is Rushi's version of Phase 1
+### Code (notebook) is Rushi's version of each phase
+
+#### Phase 1 and Phase 2 uploaded 
