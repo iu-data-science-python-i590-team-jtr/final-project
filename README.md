@@ -8,3 +8,6 @@
 
 # Phase I
 Timothy Truax: Created phase1_ttruax.ipynb individually.
+
+# Phase II
+Timothy Truax: Created phase2.ttruax.ipynb individually.
