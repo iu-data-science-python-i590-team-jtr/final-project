@@ -36,4 +36,16 @@
 10. Summarize by reporting which values might need standardization in the future 
 - R
 
+### Phase two
+1. Use KMeans algorithm (do not use column CLASS) 10pts
+
+2. Find the optimal number of clusters 10 pts
+
+3. Revise data variation 10pts
+
+4. Implement normalization 8pts
+
+5. Update your github code 2pts
+
+
 
