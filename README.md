@@ -38,11 +38,11 @@
 
 ### Phase two
 1. Use KMeans algorithm (do not use column CLASS) 10pts
-- T
+- J
 2. Find the optimal number of clusters 10 pts
 - R
 3. Revise data variation 10pts
-- J
+- T
 4. Implement normalization 8pts
 - R
 5. Update your github code 2pts
