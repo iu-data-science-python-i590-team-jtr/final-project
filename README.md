@@ -9,6 +9,9 @@
 
 # This readme is specific to Rushi's branch. 
 
-### Code (notebook) is Rushi's version of each phase
+### Folder Structure
+#### Code is Rushi's jupyter notebook version of each phase
+#### Data has the two CSVs used across each notebook
 
 #### Phase 1 and Phase 2 uploaded 
+#### Phase three comitted from Desktop
