@@ -48,4 +48,14 @@
 5. Update your github code 2pts
 - J
 
-
+### Phase three
+1. Change iteration to 500 and initial centroids to 20 (JOHN)
+2. Run KMeans with n_clusters = 2 (JOHN)
+3. Save predicted clusters into a variable labels (JOHN)
+4. Create a new column in your dataframe and add KMeans labels (RUSHI)
+5. Change labels values so that 0 becomes 2 and 1 becomes 4 (RUSHI)
+6. Print the first 15 records from your dataframe (RUSHI)
+7. Create a function (Tim)
+8. Pass your column values into function & print out error rate values (Tim)
+9. Add your report statement (All)
+10. Consolidate, Upload to GIT & Submit Assignment (Tim)
